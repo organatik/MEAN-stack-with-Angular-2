@@ -1,0 +1,31 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "MEAN stack with Angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/organatik/MEAN-stack-with-Angular-2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Anton Skybun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/organatik/MEAN-stack-with-Angular-2/issues"
+  },
+  "homepage": "https://github.com/organatik/MEAN-stack-with-Angular-2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  },
+  "devDependencies": {}
+}
